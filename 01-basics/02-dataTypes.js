@@ -1,3 +1,9 @@
 "use strict ";
 
-console.log(typeof let) ;
+let name = "Faisal"
+let age = 20
+let isloggedIn = true
+
+
+
+console.log(name) 
